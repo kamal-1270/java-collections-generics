@@ -1,6 +1,5 @@
 package resumescreeningsystem;
 import resumescreeningsystem.*;
-//Concrete Job Role: Software Engineer
 public class SoftwareEngineer extends JobRole {
  String programmingLanguage;
 
